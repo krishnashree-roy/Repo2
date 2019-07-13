@@ -1,2 +1,4 @@
 Welcome to GitHub
 Learn Git
+Git is a Distributed Version Cotrol System (VCS) for tracking changes in source code during software development. It is a tool to manage your source code history. Github is a hosting service for Git repositories.
+When you edit a file, git can help you determine exactly what changed, who changed it and why.
